@@ -1,0 +1,4 @@
+Customer ─────┐
+              └──< Order >──┐
+                            └──< Order_Item >── Product >── Category
+                            └── Payment
